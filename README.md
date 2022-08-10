@@ -13,7 +13,7 @@ ESXi Version 7.3
 	- Storage: 1 TB SATA SSD
 	- Networking: Intel Gigabit Ethernet PCIe Adapter, StarTech USB 3.0 to Gigabit Ethernet Adapter
 
-## Network Topology
+## Virtual Network Topology
 
 ### WAN Switch
 ![WAN 
