@@ -52,19 +52,19 @@ Raspberry Pi 4 running the latest verstion of Raspbian is configured as a WiFi a
 - Storage: 100 GB
 - Network Interfaces: LAN
 
-## Domain Controller
+## Domain Controller (Windows Server 2019)
 - CPU: 2 vCPUs
 - Memory: 4 GB
 - Storage: 40 GB
 - Network Interfaces: LAN
 
-## Workstation
+## Workstation (Windows 10 Pro)
 - CPU: 2 vCPUs
 - Memory: 4 GB
 - Storage: 40 GB
 - Network Interfaces: LAN
 
-# Physical Machines
+# Physical Machines (Raspbian)
 ## Raspberry Pi 4
 
-## Dell Inspiron Laptop
+## Dell Inspiron Laptop (Windows 10 Home)
