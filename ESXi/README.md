@@ -10,6 +10,8 @@ ESXi Version 7.3
 	- Storage: 1 TB SATA SSD
 	- Networking: Intel Gigabit Ethernet PCIe Adapter, StarTech USB 3.0 to Gigabit Ethernet Adapter
 
+## Network Topology
+
 ![WAN 
 Diagram](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/vSwitch0.png)
 
