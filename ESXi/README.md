@@ -1,8 +1,8 @@
 # ESXi Overview
 
-!(/Diagrams/vSwitch0)
+![WAN Diagram](/Diagrams/vSwitch0.png)
 
-!(/Diagrams/LAN)
+![LAN](/Diagrams/LAN.png)
 
 ## Software
 ESXi Version 7.3
