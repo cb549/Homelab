@@ -23,6 +23,7 @@ Diagram](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/vSwitch0.png)
 
 ### LAN Switch
 ![LAN](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/LAN.png)
+LAN Monitoring port group is configured in promiscuous mode to allow Security Onion to sniff network traffic.
 
 ## PFSense
 
