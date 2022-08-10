@@ -1,10 +1,5 @@
 # ESXi Overview
 
-![WAN 
-Diagram](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/vSwitch0.png)
-
-![LAN](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/LAN.png)
-
 ## Software
 ESXi Version 7.3
 
@@ -15,3 +10,7 @@ ESXi Version 7.3
 	- Storage: 1 TB SATA SSD
 	- Networking: Intel Gigabit Ethernet PCIe Adapter, StarTech USB 3.0 to Gigabit Ethernet Adapter
 
+![WAN 
+Diagram](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/vSwitch0.png)
+
+![LAN](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/LAN.png)
