@@ -32,3 +32,39 @@ ESXi vSwitch port group with the rest of the VMs. LAN interface is set as the ga
 ## Raspberry Pi Access Point
 
 Raspberry Pi 4 running the latest verstion of Raspbian is configured as a WiFi access point in bridge mode and connected to the ESXi LAN via a USB to Ethernet adapter.
+
+# Virtual Macines
+## PFSense
+- CPU: 1 vCPU
+- Memory: 1 GB
+- Storage: 10 GB
+- Network Interfaces: WAN, LAN 
+
+## Security Onion
+- CPU: 4 vCPUs
+- Memory: 12 GB
+- Storage: 300 GB
+- Network Interfaces: Management, Monitoring
+
+## CentOS
+- CPU: 2 vCPUs
+- Memory: 4 GB
+- Storage: 100 GB
+- Network Interfaces: LAN
+
+## Domain Controller
+- CPU: 2 vCPUs
+- Memory: 4 GB
+- Storage: 40 GB
+- Network Interfaces: LAN
+
+## Workstation
+- CPU: 2 vCPUs
+- Memory: 4 GB
+- Storage: 40 GB
+- Network Interfaces: LAN
+
+# Physical Machines
+## Raspberry Pi 4
+
+## Dell Inspiron Laptop
