@@ -31,7 +31,7 @@ ESXi vSwitch port group with the rest of the VMs. LAN interface is set as the ga
 
 ## Raspberry Pi Access Point
 
-Raspberry Pi 4 running the latest verstion of Raspbian is configured as a WiFi access point in bridge mode and connected to the ESXi LAN via a USB to Ethernet adapter.
+Raspberry Pi 4 running the latest verstion of Raspbian is configured as a WiFi access point in bridge mode and connected to the ESXi LAN via a USB to Ethernet (vusb0) adapter.
 
 # Virtual Macines
 ## PFSense
