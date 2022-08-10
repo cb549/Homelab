@@ -1,8 +1,9 @@
 # ESXi Overview
 
-![WAN Diagram](/Diagrams/vSwitch0.png)
+![WAN 
+Diagram](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/vSwitch0.png)
 
-![LAN](/Diagrams/LAN.png)
+![LAN](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/LAN.png)
 
 ## Software
 ESXi Version 7.3
