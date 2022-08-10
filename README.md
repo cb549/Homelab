@@ -1,6 +1,8 @@
 # Homelab
 Documentation for my personal learning homelab
 
+![Lab network diagram](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/Untitled%20Diagram.drawio.png)
+
 # ESXi Overview
 
 ## Software
