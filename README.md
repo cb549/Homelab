@@ -5,10 +5,7 @@ Documentation for my personal learning homelab
 
 # ESXi Overview
 
-## Software
-ESXi Version 7.3
-
-## Hardware
+- ESXi Version 7.3
 - HP Elitedesk 800 G2
 	- CPU: Intel i5 6500T
 	- Memory: 32 GB SODIMM RAM
