@@ -37,36 +37,20 @@ Raspberry Pi 4 running the latest verstion of Raspbian is configured as a WiFi a
 
 # Virtual Macines
 ## PFSense
-- CPU: 1 vCPU
-- Memory: 1 GB
-- Storage: 10 GB
-- Network Interfaces: WAN, LAN 
+- DHCP server
 
 ## Security Onion
-- CPU: 4 vCPUs
-- Memory: 12 GB
-- Storage: 300 GB
-- Network Interfaces: Management, Monitoring
 
 ## CentOS
-- CPU: 2 vCPUs
-- Memory: 4 GB
-- Storage: 100 GB
-- Network Interfaces: LAN
 
 ## Domain Controller (Windows Server 2019)
-- CPU: 2 vCPUs
-- Memory: 4 GB
-- Storage: 40 GB
-- Network Interfaces: LAN
+- DNS server
 
 ## Workstation (Windows 10 Pro)
-- CPU: 2 vCPUs
-- Memory: 4 GB
-- Storage: 40 GB
-- Network Interfaces: LAN
 
 # Physical Machines (Raspbian)
 ## Raspberry Pi 4
+- WiFi access point
 
 ## Dell Inspiron Laptop (Windows 10 Home)
+- RunZero network discovery endpoint
