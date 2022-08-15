@@ -37,8 +37,10 @@ Raspberry Pi 4 running the latest verstion of Raspbian is configured as a WiFi a
 - DHCP server
 
 ### Security Onion
+- Zeek
 
 ### CentOS
+- TBD
 
 ### Domain Controller (Windows Server 2019)
 - DNS server
