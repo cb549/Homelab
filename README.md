@@ -3,7 +3,7 @@ Documentation for my personal learning homelab
 
 ![Lab network diagram](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/Untitled%20Diagram.drawio.png)
 
-# ESXi Overview
+## ESXi Overview
 
 - ESXi Version 7.3
 - HP Elitedesk 800 G2
@@ -12,7 +12,7 @@ Documentation for my personal learning homelab
 	- Storage: 1 TB SATA SSD
 	- Networking: Intel Gigabit Ethernet PCIe Adapter, StarTech USB 3.0 to Gigabit Ethernet Adapter
 
-# Networking Overview
+## Network Overview
 
 ### WAN Switch
 ![WAN Diagram](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/vSwitch0.png)
@@ -30,7 +30,7 @@ ESXi vSwitch port group with the rest of the VMs. The LAN interface is set as th
 
 Raspberry Pi 4 running the latest verstion of Raspbian is configured as a WiFi access point in bridge mode and connected to the ESXi LAN via a USB to Ethernet (vusb0) adapter.
 
-# Hosts and Services
+## Hosts and Services
 ### PFSense
 - DHCP server
 
