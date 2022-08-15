@@ -36,21 +36,21 @@ ESXi vSwitch port group with the rest of the VMs. The LAN interface is set as th
 Raspberry Pi 4 running the latest verstion of Raspbian is configured as a WiFi access point in bridge mode and connected to the ESXi LAN via a USB to Ethernet (vusb0) adapter.
 
 # Virtual Macines
-## PFSense
+### PFSense
 - DHCP server
 
-## Security Onion
+### Security Onion
 
-## CentOS
+### CentOS
 
-## Domain Controller (Windows Server 2019)
+### Domain Controller (Windows Server 2019)
 - DNS server
 
-## Workstation (Windows 10 Pro)
+### Workstation (Windows 10 Pro)
 
 # Physical Machines (Raspbian)
-## Raspberry Pi 4
+### Raspberry Pi 4
 - WiFi access point
 
-## Dell Inspiron Laptop (Windows 10 Home)
+### Dell Inspiron Laptop (Windows 10 Home)
 - RunZero network discovery endpoint
