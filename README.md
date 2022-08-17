@@ -1,5 +1,5 @@
 # Homelab
-Documentation for my personal learning homelab
+Documentation for my personal learning homelab. Using this as a Git refresher as well as an attempt to build a habit of good documentation.
 
 ![Lab network diagram](https://github.com/cb549/Homelab/raw/main/ESXi/Diagrams/Untitled%20Diagram.drawio.png)
 
