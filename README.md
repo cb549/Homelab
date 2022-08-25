@@ -35,7 +35,7 @@ Raspberry Pi 4 running the latest verstion of Raspbian is configured as a WiFi a
 - DHCP server
 
 ### Security Onion
-- Zeek
+- Zeek, Suricata, Wazuh
 
 ### CentOS
 - TBD
@@ -44,6 +44,7 @@ Raspberry Pi 4 running the latest verstion of Raspbian is configured as a WiFi a
 - DNS server
 
 ### Workstation (Windows 10 Pro)
+- Python playground
 
 ### Raspberry Pi 4
 - WiFi access point
